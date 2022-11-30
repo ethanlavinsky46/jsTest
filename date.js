@@ -1,2 +1,2 @@
-const d = new Date();
-document.getElementById("demo2").innerHTML = d;
+const date = new Date();
+document.getElementById("demo2").innerHTML = date;
