@@ -1,0 +1,15 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#demo{
+	background: lightblue;
+  font-family: 'Oswald';
+	color: dodgerblue;
+}
+
+#demo2{
+	background: lightblue;
+  font-family: 'Raleway';
+	color: dodgerblue;
+}
